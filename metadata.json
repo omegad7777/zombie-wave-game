@@ -1,0 +1,6 @@
+{
+  "name": "Call of Undead: Blockade 3D",
+  "description": "Retro 3D wave survival zombie shooter inspired by classic Call of Duty Zombies with barricade repairs, wall weapons, mystery box, and unlockable doors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
